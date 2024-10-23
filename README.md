@@ -16,3 +16,13 @@ This is a RESTful API for managing personal financial records. Users can record 
 ```bash
 git clone https://github.com/yourusername/personal-expense-tracker.git
 cd personal-expense-tracker
+
+### 2. Install Dependncies
+
+npm install
+
+### 3. Run The Server
+
+npm start
+
+The server will start at http://localhost:3000.
