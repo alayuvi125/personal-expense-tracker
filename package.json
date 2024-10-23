@@ -1,0 +1,18 @@
+{
+  "name": "personal-expense-tracker",
+  "version": "1.0.0",
+  "description": "This is a RESTful API for managing personal financial records. Users can record their income and expenses, retrieve past transactions, and get summaries by category or time period.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1",
+    "sequelize": "^6.37.4",
+    "sqlite3": "^5.1.7"
+  }
+}
